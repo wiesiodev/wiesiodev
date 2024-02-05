@@ -2,7 +2,6 @@
 <h3 align="center">A passionate beeginer developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiesiodev&label=Profile%20views&color=0e75b6&style=flat" alt="wiesiodev" /> </p>
-[(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")`](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 - 🔭 I’m currently working on [FictionProject](https://github.com/FictionProject)
 
