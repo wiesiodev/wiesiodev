@@ -5,17 +5,9 @@
 
 - 🔭 I’m currently working on [FictionProject](https://github.com/FictionProject)
 
-- 🌱 I’m currently learning **everything possible**
-
 - 👯 I’m looking to collaborate on [FictionProject](https://discord.gg/rrujDpjMdt)
 
-- 🤝 I’m looking for help with [FictionProject](https://discord.gg/rrujDpjMdt)
-
-- 👨‍💻 All of my projects are available at [www.wiesio.xyz/Portfolio](www.wiesio.xyz/Portfolio)
-
-- 💬 Ask me about **discord bots**
-
-- 📫 How to reach me **discord: wiesiodev**
+- 📫 **discord: wiesiodev**
 
 - ⚡ Fun fact **I, m a collector of raspberry pi**
 
